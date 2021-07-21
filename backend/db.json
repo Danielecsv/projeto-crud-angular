@@ -12,13 +12,18 @@
     },
     {
       "id": 3,
-      "name": "Samsung S20+",
-      "price": 5000.89
+      "name": "Samsung S20+ Ultra",
+      "price": "7520.89"
     },
     {
-      "name": "Lápis Preto",
-      "price": "2.50",
+      "name": "Lápis Preto Básico",
+      "price": "1.50",
       "id": 4
+    },
+    {
+      "name": "",
+      "price": 0,
+      "id": 5
     }
   ]
 }
